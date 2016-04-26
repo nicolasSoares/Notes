@@ -27,3 +27,7 @@ https://perceptual.mpi-inf.mpg.de/files/2016/01/schneegass16_chi.pdf
 http://danluu.com/programming-blogs/ *****
 
 http://dm.gl/2016/04/26/wallaby-sublime-electron-ava/#ava-support
+
+https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/
+
+http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
