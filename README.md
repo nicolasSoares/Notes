@@ -18,3 +18,10 @@ https://blog.activecollab.com/product/2016/04/14/how-to-develop-features-with-li
 https://github.com/guillaumebort/scasm
 http://rmlint.readthedocs.org/en/latest/cautions.html
 http://www.npr.org/sections/health-shots/2016/04/21/474691141/half-your-brain-stands-guard-when-sleeping-in-a-new-place
+https://www.landaire.net/blog/apple-imageio-denial-of-service/
+
+http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/ **
+
+https://perceptual.mpi-inf.mpg.de/files/2016/01/schneegass16_chi.pdf
+
+http://danluu.com/programming-blogs/ *****
