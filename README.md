@@ -25,3 +25,5 @@ http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/ **
 https://perceptual.mpi-inf.mpg.de/files/2016/01/schneegass16_chi.pdf
 
 http://danluu.com/programming-blogs/ *****
+
+http://dm.gl/2016/04/26/wallaby-sublime-electron-ava/#ava-support
