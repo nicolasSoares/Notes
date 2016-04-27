@@ -26,6 +26,13 @@ https://perceptual.mpi-inf.mpg.de/files/2016/01/schneegass16_chi.pdf
 
 http://danluu.com/programming-blogs/ *****
 
+http://blog.debugme.eu/getting-started-as-a-javascript-developer/
+
+http://gafferongames.com/2016/04/25/never-trust-the-client/
+
+http://www.evanmiller.org/statistical-formulas-for-programmers.html
+
+
 http://dm.gl/2016/04/26/wallaby-sublime-electron-ava/#ava-support
 
 https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/
