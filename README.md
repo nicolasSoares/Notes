@@ -38,3 +38,9 @@ http://dm.gl/2016/04/26/wallaby-sublime-electron-ava/#ava-support
 https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/
 
 http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/
+
+http://blog.debugme.eu/getting-started-as-a-javascript-developer/
+http://gafferongames.com/2016/04/25/never-trust-the-client/
+http://www.evanmiller.org/statistical-formulas-for-programmers.html
+http://blog.debugme.eu/javascript-frameworks-for-2016/
+https://blog.risingstack.com/whats-new-in-node-v6/
