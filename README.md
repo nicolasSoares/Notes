@@ -26,6 +26,19 @@ https://perceptual.mpi-inf.mpg.de/files/2016/01/schneegass16_chi.pdf
 
 http://danluu.com/programming-blogs/ *****
 
+https://github.com/feross/standard
+
+
+***************************************************************************************
+
+***************************************************************************************
+
+http://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html
+
+***************************************************************************************
+
+***************************************************************************************
+
 http://blog.debugme.eu/getting-started-as-a-javascript-developer/
 
 http://gafferongames.com/2016/04/25/never-trust-the-client/
