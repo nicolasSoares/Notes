@@ -57,3 +57,9 @@ http://gafferongames.com/2016/04/25/never-trust-the-client/
 http://www.evanmiller.org/statistical-formulas-for-programmers.html
 http://blog.debugme.eu/javascript-frameworks-for-2016/
 https://blog.risingstack.com/whats-new-in-node-v6/
+
+http://haxe.org/
+
+http://www.theuselessweb.com/
+
+http://www.serkantoto.com/2016/03/14/gacha-monetization-japan/
