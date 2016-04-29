@@ -63,3 +63,8 @@ http://haxe.org/
 http://www.theuselessweb.com/
 
 http://www.serkantoto.com/2016/03/14/gacha-monetization-japan/
+
+********
+http://www.ibm.com/developerworks/library/wa-use-javascript-closures-efficiently/index.html
+********
+
