@@ -97,3 +97,7 @@ http://www.stephendiehl.com/posts/essential_haskell.html
 *
 
 http://www.drcraigwright.net/generating-bitcoin-address/
+
+********
+https://ml101.docsapp.io/docs/what-is-machine-learning
+********
