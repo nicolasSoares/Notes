@@ -89,3 +89,9 @@ https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
 http://blog.infinit.one/introducing-infinit-file-system/
 
 https://karla.io/2016/04/30/ssh-for-fun-and-profit.html
+
+*
+http://fabiensanglard.net/c/
+http://wiki.erights.org/wiki/Main_Page
+http://www.stephendiehl.com/posts/essential_haskell.html
+*
