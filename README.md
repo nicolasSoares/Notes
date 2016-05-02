@@ -95,3 +95,5 @@ http://fabiensanglard.net/c/
 http://wiki.erights.org/wiki/Main_Page
 http://www.stephendiehl.com/posts/essential_haskell.html
 *
+
+http://www.drcraigwright.net/generating-bitcoin-address/
