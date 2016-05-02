@@ -79,3 +79,13 @@ https://thesocietea.org/2016/04/how-websockets-work-with-socket-io-demo/
 ***********************************************************
 http://www.slideshare.net/MattHarrison4/learn-90
 ***********************************************************
+
+******************************
+http://arxiv.org/abs/1501.00011
+******************************
+
+https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
+
+http://blog.infinit.one/introducing-infinit-file-system/
+
+https://karla.io/2016/04/30/ssh-for-fun-and-profit.html
