@@ -107,3 +107,6 @@ https://ml101.docsapp.io/docs/what-is-machine-learning
 http://squanch.org/writing-a-compiler-in-go/
 *******************************************************
 **********************************************************
+
+*
+https://vimeo.com/album/3930691
