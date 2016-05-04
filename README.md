@@ -122,3 +122,7 @@ https://github.com/ericholiveira/studio
 *******
 https://github.com/tangbc/sugar
 ****
+
+**********
+http://michaelnielsen.org/blog/quantum-computing-for-everyone/
+********
