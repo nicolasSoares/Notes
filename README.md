@@ -126,3 +126,9 @@ https://github.com/tangbc/sugar
 **********
 http://michaelnielsen.org/blog/quantum-computing-for-everyone/
 ********
+
+https://angular.io/styleguide
+
+https://uxplanet.org/pagination-best-practices-76fbd3f5a78d#.ohr6p39m3
+
+http://zurb.com/article/1435/tribute-js-a-new-lightweight-and-easy-to-
