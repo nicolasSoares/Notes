@@ -114,3 +114,11 @@ https://vimeo.com/album/3930691
 **
 http://colorizr.io/
 **
+
+**********************
+https://github.com/ericholiveira/studio
+**********************
+
+*******
+https://github.com/tangbc/sugar
+****
