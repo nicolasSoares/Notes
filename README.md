@@ -132,3 +132,12 @@ https://angular.io/styleguide
 https://uxplanet.org/pagination-best-practices-76fbd3f5a78d#.ohr6p39m3
 
 http://zurb.com/article/1435/tribute-js-a-new-lightweight-and-easy-to-
+
+***
+http://blog.tenstral.net/2016/05/adventures-in-d-programming.html
+***
+
+*************************************************
+doc:
+http://overapi.com/
+*************************************************
