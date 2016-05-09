@@ -141,3 +141,10 @@ http://blog.tenstral.net/2016/05/adventures-in-d-programming.html
 doc:
 http://overapi.com/
 *************************************************
+
+https://fman.io/blog/picking-technologies-for-a-desktop-app-in-2016
+
+
+********
+https://github.com/welchbj/tt
+**********
