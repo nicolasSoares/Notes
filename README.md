@@ -148,3 +148,7 @@ https://fman.io/blog/picking-technologies-for-a-desktop-app-in-2016
 ********
 https://github.com/welchbj/tt
 **********
+
+-*****************************************************************
+https://blog.risingstack.com/node-hero-node-js-project-structure-tutorial/
+*****************************************************************
