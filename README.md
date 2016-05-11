@@ -10,6 +10,9 @@ https://www.devtools.online/#!/development/everything/
 **   !!!!!!!!! ====> http://grafijs.org/                              **
 ************************************************************************
 
+https://regex101.com/
+
+
 https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/
 http://mlsdev.com/en/blog/60-5-principles-of-effective-logo-design-for-a-business
 http://www.diwebsity.com/2016/04/26/web-api-message-handlers-usage/
