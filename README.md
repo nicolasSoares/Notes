@@ -14,7 +14,9 @@ https://www.devtools.online/#!/development/everything/
 *************************************************
 https://medium.com/@jackqu7/heres-to-the-systems-programmers-cba40a41b608#.s27vc0rop
 ***************************************************
-
+***********************************************
+https://skilldrick.github.io/easy6502/#registers
+**********************************************
 https://regex101.com/
 
 *************************
