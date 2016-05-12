@@ -12,6 +12,9 @@ https://www.devtools.online/#!/development/everything/
 
 https://regex101.com/
 
+*************************
+https://www.programmingalgorithms.com/category/image-processing
+************************
 
 https://shansvex.wordpress.com/2013/12/03/being-a-slow-programmer/
 http://mlsdev.com/en/blog/60-5-principles-of-effective-logo-design-for-a-business
