@@ -10,6 +10,9 @@ https://www.devtools.online/#!/development/everything/
 **   !!!!!!!!! ====> http://grafijs.org/                              **
 ************************************************************************
 
+***********************************
+http://markonis.github.io/functional/programming/2016/04/16/intro-to-functional-programming.html
+************************************
 
 *************************************************
 https://medium.com/@jackqu7/heres-to-the-systems-programmers-cba40a41b608#.s27vc0rop
