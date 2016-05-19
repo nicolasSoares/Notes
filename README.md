@@ -5,6 +5,9 @@ https://medium.com/@arnaudrinquin/frictionless-unit-testing-in-javascript-with-b
 
 https://github.com/wouter2203/fuzzy-search
 https://www.devtools.online/#!/development/everything/
+*****************************************************************************************************
+https://github.com/ujjwalkarn/DataSciencePython
+*****************************************************************************************************
 
 ************************************************************************
 **   !!!!!!!!! ====> http://grafijs.org/                              **
