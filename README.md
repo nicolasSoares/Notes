@@ -12,6 +12,10 @@ https://github.com/ujjwalkarn/DataSciencePython
 https://codelabs.developers.google.com/
 ************************************
 
+***********
+https://jmperezperez.com/beats-audio-api/
+**********
+
 ************************************************************************
 **   !!!!!!!!! ====> http://grafijs.org/                              **
 ************************************************************************
