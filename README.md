@@ -15,7 +15,7 @@ https://github.com/tsim0/pytalk.js
 ***********
 https://jmperezperez.com/beats-audio-api/
 **********
-
+https://github.com/alex/what-happens-when#the-g-key-is-pressed
 ************************************************************************
 **   !!!!!!!!! ====> http://grafijs.org/                              **
 ************************************************************************
