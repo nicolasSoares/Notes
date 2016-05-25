@@ -6,7 +6,9 @@ https://github.com/ProgrammingBlockchain/ProgrammingBlockchain
 *******************************************************************************************
 *************************
 
-
+**
+https://medium.com/@Terrybroad/autoencoding-blade-runner-88941213abbe#.n6t8sxkxv
+**
 
 http://c9x.me/compile/bib/
 https://jelleraaijmakers.nl/2016/04/dissecting-spammers-spam-script
