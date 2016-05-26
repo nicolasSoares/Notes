@@ -9,7 +9,9 @@ http://arnaudleray.github.io/pocketgrid/docs/
 **
 https://medium.com/@Terrybroad/autoencoding-blade-runner-88941213abbe#.n6t8sxkxv
 **
-
+***************************
+http://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/
+*****************************
 http://c9x.me/compile/bib/
 https://jelleraaijmakers.nl/2016/04/dissecting-spammers-spam-script
 https://medium.com/@arnaudrinquin/frictionless-unit-testing-in-javascript-with-browser-tap-6ac2cea89a59#.exoxu4o15
