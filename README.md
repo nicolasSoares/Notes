@@ -1,5 +1,5 @@
 # Notes
-
+https://introvertmac.wordpress.com/2015/09/09/beginners-guide-to-apirest-security/
 **************************
 **********************************************************************************
 https://github.com/ProgrammingBlockchain/ProgrammingBlockchain
