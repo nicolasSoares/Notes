@@ -1,6 +1,15 @@
 # Notes
 https://introvertmac.wordpress.com/2015/09/09/beginners-guide-to-apirest-security/
 **************************
+http://arxiv.org/pdf/1603.00930v2.pdf
+
+http://arxiv.org/abs/1603.00930
+
+https://github.com/PaulBernier/castl
+
+https://www.acrcloud.com/blog/how-does-shazam-work
+
+https://cloudplatform.googleblog.com/
 **********************************************************************************
 https://github.com/ProgrammingBlockchain/ProgrammingBlockchain
 *******************************************************************************************
