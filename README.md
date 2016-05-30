@@ -1,4 +1,8 @@
 # Notes
+
+https://medium.com/trafi-tech-beat/running-net-core-on-docker-c438889eb5a#.atg4xdf78
+
+
 https://introvertmac.wordpress.com/2015/09/09/beginners-guide-to-apirest-security/
 **************************
 http://arxiv.org/pdf/1603.00930v2.pdf
