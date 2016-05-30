@@ -7,6 +7,8 @@ http://arxiv.org/abs/1603.00930
 https://msdn.microsoft.com/en-us/virtualization/windowscontainers/quick_start/quick_start_windows_10
 https://github.com/PaulBernier/castl
 
+http://arxiv.org/abs/1311.5253
+
 https://www.acrcloud.com/blog/how-does-shazam-work
 http://tidalcycles.org/
 https://cloudplatform.googleblog.com/
