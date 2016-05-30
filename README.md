@@ -2,7 +2,7 @@
 
 https://medium.com/trafi-tech-beat/running-net-core-on-docker-c438889eb5a#.atg4xdf78
 
-
+https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.blhqkr1cz
 https://introvertmac.wordpress.com/2015/09/09/beginners-guide-to-apirest-security/
 **************************
 http://arxiv.org/pdf/1603.00930v2.pdf
