@@ -1,5 +1,19 @@
 # Notes
 
+http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/
+http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
+
+http://esevece.github.io/2016/06/01/taking-over-heroku-accounts.html
+
+https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.68g0byuih
+http://arxiv.org/abs/1605.09507
+https://seld.be/notes/goddamn-it
+
+http://www.witapp.me/
+
+https://github.com/lucas-clemente/quic-go
+
+
 https://atap.google.com/soli/
 https://github.com/sachinchoolur/lightgallery-desktop/tree/master
 https://github.com/PremiseHealth/AngularJS2-Learning
