@@ -3,6 +3,7 @@
 http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/
 http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
 
+http://www.lesnumeriques.com/fabuleux-monde-son-art-faire-vibrer-nos-tympans-a1103/concepts-son-numerique-quantification-ap919.html
 http://esevece.github.io/2016/06/01/taking-over-heroku-accounts.html
 
 https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e#.68g0byuih
