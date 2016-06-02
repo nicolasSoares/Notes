@@ -3,6 +3,8 @@
 http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/
 http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
 
+http://roberts.pm/human_blockchains
+
 http://www.lesnumeriques.com/fabuleux-monde-son-art-faire-vibrer-nos-tympans-a1103/concepts-son-numerique-quantification-ap919.html
 http://esevece.github.io/2016/06/01/taking-over-heroku-accounts.html
 
