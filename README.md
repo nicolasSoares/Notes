@@ -4,6 +4,8 @@
 https://github.com/vic317yeh/One-Click-to-Be-Pro
 
 
+https://github.com/geekan/one-python
+
 https://medium.com/@cookiengineer/native-node-js-apps-are-totally-on-fire-f9134511ae52#.50vgztsjp
 
 https://webgazer.cs.brown.edu/
