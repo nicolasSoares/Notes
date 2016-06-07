@@ -13,7 +13,7 @@ https://hyperdev.com/blog/how-to-write-a-compiler-in-javascript-and-hyperdev/
 https://github.com/vic317yeh/One-Click-to-Be-Pro
 
 http://blog.pelicandd.com/article/89/topography-of-tests#what-types-of-tests-are-there-
-
+http://coderoncode.com/machine/learning/2016/06/06/machine-learning-a-simple-neural-network.html
 
 https://github.com/geekan/one-python
 
