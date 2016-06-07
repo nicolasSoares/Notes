@@ -1,6 +1,6 @@
 # Notes
 
-
+https://github.com/rasbt/python-machine-learning-book?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly
 
 https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657#.f9ozu24t3
 
