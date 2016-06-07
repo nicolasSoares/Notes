@@ -4,7 +4,7 @@ https://github.com/rasbt/python-machine-learning-book?utm_campaign=explore-email
 
 https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657#.f9ozu24t3
 
-
+https://github.com/altf4/SmashBot
 
 
 https://hyperdev.com/blog/how-to-write-a-compiler-in-javascript-and-hyperdev/
