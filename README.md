@@ -1,5 +1,12 @@
 # Notes
 
+
+
+https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657#.f9ozu24t3
+
+
+
+
 https://hyperdev.com/blog/how-to-write-a-compiler-in-javascript-and-hyperdev/
 
 
