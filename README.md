@@ -3,6 +3,8 @@
 
 https://github.com/vic317yeh/One-Click-to-Be-Pro
 
+http://blog.pelicandd.com/article/89/topography-of-tests#what-types-of-tests-are-there-
+
 
 https://github.com/geekan/one-python
 
