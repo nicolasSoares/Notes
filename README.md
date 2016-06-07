@@ -1,5 +1,7 @@
 # Notes
 
+https://hyperdev.com/blog/how-to-write-a-compiler-in-javascript-and-hyperdev/
+
 
 https://github.com/vic317yeh/One-Click-to-Be-Pro
 
