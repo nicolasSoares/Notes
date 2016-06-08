@@ -7,6 +7,10 @@ https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657
 https://github.com/altf4/SmashBot
 
 
+https://chronicles.mfglabs.com/big-data-small-data-and-the-role-of-logic-in-machine-learning-c5f9796765e9#.fzt41rivc
+
+https://softinstigate.atlassian.net/wiki/display/RH/Query+Documents
+
 https://hyperdev.com/blog/how-to-write-a-compiler-in-javascript-and-hyperdev/
 
 
