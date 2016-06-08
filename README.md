@@ -7,6 +7,8 @@ https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657
 https://github.com/altf4/SmashBot
 
 
+https://blog.arduino.cc/2013/08/12/diy-cellphone/
+
 https://chronicles.mfglabs.com/big-data-small-data-and-the-role-of-logic-in-machine-learning-c5f9796765e9#.fzt41rivc
 
 https://softinstigate.atlassian.net/wiki/display/RH/Query+Documents
