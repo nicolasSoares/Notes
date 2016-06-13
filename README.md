@@ -6,6 +6,8 @@ https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657
 
 https://github.com/altf4/SmashBot
 
+https://wit.ai/
+
 
 https://blog.arduino.cc/2013/08/12/diy-cellphone/
 
