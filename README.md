@@ -28,6 +28,21 @@ https://medium.com/@cookiengineer/native-node-js-apps-are-totally-on-fire-f91345
 https://webgazer.cs.brown.edu/
 
 
+
+https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/
+
+http://rsif.royalsocietypublishing.org/content/13/119/20160030
+
+https://blog.revillweb.com/why-web-components-are-so-important-66ad0bd4807a#.6vr1n8orl
+
+https://blind.guru/brlpi.html
+
+http://thewaterbabe.in/2016/06/13/a-beginners-guide-to-debian-source-packages/
+
+http://xoofx.com/blog/2016/06/13/implementing-a-markdown-processor-for-dotnet/
+
+
+
 http://blog.cloudfour.com/autofill-what-web-devs-should-know-but-dont/
 http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
 
