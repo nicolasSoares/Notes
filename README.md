@@ -8,6 +8,8 @@ https://github.com/altf4/SmashBot
 
 https://wit.ai/
 
+https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/
+
 https://davidgf.net/page/41/e-ink-wifi-display
 https://blog.arduino.cc/2013/08/12/diy-cellphone/
 
