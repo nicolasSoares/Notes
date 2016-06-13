@@ -8,7 +8,7 @@ https://github.com/altf4/SmashBot
 
 https://wit.ai/
 
-
+https://davidgf.net/page/41/e-ink-wifi-display
 https://blog.arduino.cc/2013/08/12/diy-cellphone/
 
 https://chronicles.mfglabs.com/big-data-small-data-and-the-role-of-logic-in-machine-learning-c5f9796765e9#.fzt41rivc
