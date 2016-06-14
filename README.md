@@ -8,6 +8,9 @@ https://github.com/altf4/SmashBot
 
 https://wit.ai/
 
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.8q9smooqf
+
+
 https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/
 
 https://davidgf.net/page/41/e-ink-wifi-display
