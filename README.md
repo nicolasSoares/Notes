@@ -7,6 +7,9 @@ https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657
 https://www.pandastrike.com/posts/20160613-ssl-cert-aws-api-gateway-zerossl-letsencrypt
 http://dineshswamy.github.io/2d-animation-film-using-git-js-and-css3
 
+https://www.sparkfun.com/products/13897
+
+
 https://github.com/emc-advanced-dev/unik
 
 https://github.com/altf4/SmashBot
