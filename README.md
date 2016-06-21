@@ -1,5 +1,7 @@
 # Notes
 
+http://jsrocks.org/2014/10/arrow-functions-and-their-scope/
+
 https://github.com/rasbt/python-machine-learning-book?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly
 http://programmingzen.com/2016/06/07/10-lesser-known-programming-languages-worth-exploring/
 https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657#.f9ozu24t3
