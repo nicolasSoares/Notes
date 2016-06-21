@@ -4,6 +4,8 @@ https://github.com/rasbt/python-machine-learning-book?utm_campaign=explore-email
 http://programmingzen.com/2016/06/07/10-lesser-known-programming-languages-worth-exploring/
 https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657#.f9ozu24t3
 
+
+http://www.infinitepartitions.com/art001.html
 https://www.pandastrike.com/posts/20160613-ssl-cert-aws-api-gateway-zerossl-letsencrypt
 http://dineshswamy.github.io/2d-animation-film-using-git-js-and-css3
 
