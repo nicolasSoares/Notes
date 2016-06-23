@@ -6,6 +6,7 @@ https://github.com/rasbt/python-machine-learning-book?utm_campaign=explore-email
 http://programmingzen.com/2016/06/07/10-lesser-known-programming-languages-worth-exploring/
 https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657#.f9ozu24t3
 
+https://github.com/kjw0612/awesome-rnn
 
 http://www.infinitepartitions.com/art001.html
 https://www.pandastrike.com/posts/20160613-ssl-cert-aws-api-gateway-zerossl-letsencrypt
