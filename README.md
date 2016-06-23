@@ -8,6 +8,8 @@ https://medium.com/@bibblio_org/43-websites-the-world-uses-to-learn-1de596605657
 
 https://github.com/kjw0612/awesome-rnn
 
+https://github.com/prajwalkr/SnapSudoku
+
 http://www.infinitepartitions.com/art001.html
 https://www.pandastrike.com/posts/20160613-ssl-cert-aws-api-gateway-zerossl-letsencrypt
 http://dineshswamy.github.io/2d-animation-film-using-git-js-and-css3
