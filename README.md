@@ -4,6 +4,7 @@ http://jsrocks.org/2014/10/arrow-functions-and-their-scope/
 
 http://java67.blogspot.com/2015/10/top-5-free-javascript-books-download-pdf-read-online.html
 
+http://www.haganfox.net/Main/HomeLabServer
 
 http://www.networkworld.com/article/3083268/linux/30-days-in-a-terminal-day-0-the-adventure-begins.html
 
