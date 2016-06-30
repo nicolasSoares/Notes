@@ -8,6 +8,8 @@ http://blog.klipse.tech/all/2016/06/28/multi-language-demo.html
 
 http://ithare.com/logins-and-passwords/
 
+http://www.gajotres.net/prevent-ionic-application-from-going-to-sleep-in-background/
+
 http://jsrocks.org/2014/10/arrow-functions-and-their-scope/
 
 http://java67.blogspot.com/2015/10/top-5-free-javascript-books-download-pdf-read-online.html
