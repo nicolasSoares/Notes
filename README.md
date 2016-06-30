@@ -2,6 +2,8 @@
 
 http://ofir.io/How-to-Start-Learning-Deep-Learning/
 
+http://blockchainleaks.com/
+
 http://smerity.com/articles/2016/orthogonal_init.html
 
 http://blog.klipse.tech/all/2016/06/28/multi-language-demo.html
