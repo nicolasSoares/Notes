@@ -4,6 +4,8 @@ http://ofir.io/How-to-Start-Learning-Deep-Learning/
 
 http://smerity.com/articles/2016/orthogonal_init.html
 
+http://ithare.com/logins-and-passwords/
+
 http://jsrocks.org/2014/10/arrow-functions-and-their-scope/
 
 http://java67.blogspot.com/2015/10/top-5-free-javascript-books-download-pdf-read-online.html
