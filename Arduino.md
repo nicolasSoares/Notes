@@ -1,4 +1,4 @@
-# LINKS:
+# LINKS
 
 http://www.zem.fr/programmer-un-arduino-grace-a-un-programmeur-avr-isp/
 
