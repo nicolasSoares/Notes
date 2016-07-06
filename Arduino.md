@@ -12,3 +12,6 @@ http://www.instructables.com/id/Simplest-and-Cheapest-Arduino/?ALLSTEPS
 control with rpi in python :
 http://www.meccanismocomplesso.org/en/controlling-arduino-raspberry-pi/
 http://www.akeric.com/blog/?p=2420
+
+
+http://www.modsbyus.com/how-to-properly-detachturn-off-a-servo-with-arduino/
