@@ -10,6 +10,8 @@ http://codeahoy.com/2016/07/04/rest-design-choosing-the-right-http-method/
 
 http://smerity.com/articles/2016/orthogonal_init.html
 
+https://github.com/shekhargulati/52-technologies-in-2016
+
 http://blog.klipse.tech/all/2016/06/28/multi-language-demo.html
 
 http://ithare.com/logins-and-passwords/
