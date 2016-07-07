@@ -1,5 +1,7 @@
 # Notes
 
+**https://github.com/shockone/black-screen/
+
 https://github.com/substack/stream-handbook
 
 http://ofir.io/How-to-Start-Learning-Deep-Learning/
