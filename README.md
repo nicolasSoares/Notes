@@ -14,6 +14,8 @@ http://blog.klipse.tech/all/2016/06/28/multi-language-demo.html
 
 http://ithare.com/logins-and-passwords/
 
+https://github.com/NamPNQ/You-Dont-Need-Javascript
+
 http://www.gajotres.net/prevent-ionic-application-from-going-to-sleep-in-background/
 
 http://jsrocks.org/2014/10/arrow-functions-and-their-scope/
