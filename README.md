@@ -6,6 +6,8 @@ https://github.com/substack/stream-handbook
 
 http://ofir.io/How-to-Start-Learning-Deep-Learning/
 
+http://codeahoy.com/2016/07/05/unit-integration-and-end-to-end-tests-finding-the-right-balance/
+
 http://blockchainleaks.com/
 
 http://codeahoy.com/2016/07/04/rest-design-choosing-the-right-http-method/
