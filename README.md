@@ -4,6 +4,8 @@
 
 **https://github.com/shockone/black-screen/
 
+http://dev.stephendiehl.com/fun/index.html
+
 https://github.com/substack/stream-handbook
 
 http://ofir.io/How-to-Start-Learning-Deep-Learning/
