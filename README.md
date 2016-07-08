@@ -6,6 +6,9 @@
 
 http://dev.stephendiehl.com/fun/index.html
 
+https://ia.wikipedia.org/wiki/Interlingua
+
+
 https://github.com/substack/stream-handbook
 
 http://ofir.io/How-to-Start-Learning-Deep-Learning/
