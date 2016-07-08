@@ -1,5 +1,7 @@
 # Notes
 
+*- * https://medium.com/functional-javascript/lambda-calculus-in-javascript-part-1-28ff63824d4d#.d06s03t2y
+
 **https://github.com/shockone/black-screen/
 
 https://github.com/substack/stream-handbook
