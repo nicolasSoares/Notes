@@ -2,6 +2,8 @@
 
 *- * https://medium.com/functional-javascript/lambda-calculus-in-javascript-part-1-28ff63824d4d#.d06s03t2y
 
+https://developers.google.com/web/updates/2016/07/infinite-scroller
+
 **https://github.com/shockone/black-screen/
 
 http://dev.stephendiehl.com/fun/index.html
