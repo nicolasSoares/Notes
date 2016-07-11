@@ -6,6 +6,8 @@ https://developers.google.com/web/updates/2016/07/infinite-scroller
 
 **https://github.com/shockone/black-screen/
 
+https://philipwalton.com/articles/learning-how-to-set-up-automated-cross-browser-javascript-unit-testing/
+
 http://dev.stephendiehl.com/fun/index.html
 
 https://ia.wikipedia.org/wiki/Interlingua
