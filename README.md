@@ -4,6 +4,8 @@
 
 https://blog.dominodatalab.com/an-introduction-to-model-based-machine-learning/
 
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+
 https://developers.google.com/web/updates/2016/07/infinite-scroller
 
 **https://github.com/shockone/black-screen/
