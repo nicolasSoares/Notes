@@ -2,6 +2,10 @@
 
 *- * https://medium.com/functional-javascript/lambda-calculus-in-javascript-part-1-28ff63824d4d#.d06s03t2y
 
+***
+https://howlerjs.com/
+***
+
 https://blog.dominodatalab.com/an-introduction-to-model-based-machine-learning/
 
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
