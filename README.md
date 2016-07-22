@@ -6,6 +6,8 @@
 https://howlerjs.com/
 ***
 
+https://jkchu.com/2016/02/17/designing-and-implementing-a-ranking-algorithm/
+
 https://blog.dominodatalab.com/an-introduction-to-model-based-machine-learning/
 
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
