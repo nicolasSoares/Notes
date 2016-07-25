@@ -1,5 +1,13 @@
 # Notes
 
+**********
+*********
+https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.rudpfor3f
+********
+********
+
+
+
 *- * https://medium.com/functional-javascript/lambda-calculus-in-javascript-part-1-28ff63824d4d#.d06s03t2y
 
 ***
