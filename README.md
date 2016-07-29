@@ -6,6 +6,8 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognit
 ********
 ********
 
+http://beginners.re/RE4B-EN.pdf
+
 https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.jzkxhhcdb
 
 
