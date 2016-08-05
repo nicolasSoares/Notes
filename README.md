@@ -6,6 +6,10 @@ https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognit
 ********
 ********
 
+***************************
+http://colorhunt.co/ *********
+*********************
+
 http://jgthms.com/web-design-in-4-minutes/#share *****
 
 http://beginners.re/RE4B-EN.pdf
