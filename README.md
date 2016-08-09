@@ -5,6 +5,8 @@
 https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning/answer/Yann-LeCun?share=1
 ****
 
+http://blog.deeprobotics.es/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/07/06/rl-intro/
+
 **********
 *********
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.rudpfor3f
