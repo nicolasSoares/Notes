@@ -1,5 +1,10 @@
 # Notes
 
+
+****
+https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning/answer/Yann-LeCun?share=1
+****
+
 **********
 *********
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.rudpfor3f
