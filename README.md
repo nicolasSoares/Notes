@@ -30,6 +30,8 @@ https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-kno
 https://howlerjs.com/
 ***
 
+http://www.gamedevcraft.com/2016/08/part-1-multiplayer-websocket-game.html
+
 https://jkchu.com/2016/02/17/designing-and-implementing-a-ranking-algorithm/
 
 https://blog.dominodatalab.com/an-introduction-to-model-based-machine-learning/
